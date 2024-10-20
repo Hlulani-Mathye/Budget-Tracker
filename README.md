@@ -12,8 +12,7 @@ This is a simple web-based personal budget tracking application built with Flask
 
 2. Create and activate a virtual environment:
    ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   Windows use `venv\Scripts\activate`
    ```
 
 3. Install the required dependencies:
