@@ -32,6 +32,9 @@ This is a simple web-based personal budget tracking application built with Flask
 
 6. Open a web browser and navigate to `http://127.0.0.1:5000` to use the application.
 
+=Dependencies
+This project uses Flask for the web framework. For the exact version, see the requirements.txt file(Flask==2.1.0).
+
 ## Why use Python to initialize the database?
 
 We use the Python command to initialize the database instead of directly using the `sqlite3` command for several reasons:
